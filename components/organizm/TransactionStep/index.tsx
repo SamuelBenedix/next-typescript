@@ -1,3 +1,5 @@
+/* eslint-disable import/no-unresolved */
+/* eslint-disable import/extensions */
 import { StepItem } from '../../molecules';
 
 const TransactionStep = () => (

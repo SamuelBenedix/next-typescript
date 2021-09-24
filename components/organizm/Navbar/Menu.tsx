@@ -1,4 +1,3 @@
-/* eslint-disable arrow-body-style */
 import cx from 'classnames';
 import Link from 'next/link';
 

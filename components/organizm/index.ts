@@ -16,7 +16,9 @@ import CheckOutConfirmation from './CheckOutConfirmation';
 import SignInForm from './SignInForm';
 import SignInIllustration from './SignInIllustration';
 import SignUpForm from './SignUpForm';
+import MemberSidebar from './MemberSidebar';
+import OverViewContent from './OverViewContent';
 
 export {
-  Navbar, MainBanner, TransactionStep, FeatureGame, Reached, Story, TopUpForm, TopUpItem, Footer, CheckOutItem, CheckOutDetail, CheckOutConfirmation, SignInForm, SignInIllustration, SignUpForm,
+  Navbar, MainBanner, TransactionStep, FeatureGame, Reached, Story, TopUpForm, TopUpItem, Footer, CheckOutItem, CheckOutDetail, CheckOutConfirmation, SignInForm, SignInIllustration, SignUpForm, MemberSidebar, OverViewContent,
 };

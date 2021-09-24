@@ -1,3 +1,5 @@
+/* eslint-disable import/extensions */
+/* eslint-disable import/no-unresolved */
 import type { NextPage } from 'next';
 import { useEffect } from 'react';
 import AOS from 'aos';
@@ -8,8 +10,8 @@ import {
   Reached,
   Story,
   TransactionStep,
+  Footer,
 } from '../components';
-import Footer from '../components/organizm/Footer';
 
 const Home: NextPage = () => {
   useEffect(() => {

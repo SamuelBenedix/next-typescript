@@ -1,3 +1,5 @@
+/* eslint-disable import/extensions */
+/* eslint-disable import/no-unresolved */
 /* eslint-disable arrow-body-style */
 import { FeatureCardGame } from '../../molecules';
 

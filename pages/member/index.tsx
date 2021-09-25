@@ -9,7 +9,7 @@ import { MemberSidebar, OverViewContent } from '../../components';
 const index = () => {
   return (
     <section className="overview overflow-auto">
-      <MemberSidebar />
+      <MemberSidebar activeMenu="overview" />
       <OverViewContent />
     </section>
   );

@@ -1,3 +1,6 @@
+/* eslint-disable import/no-unresolved */
+/* eslint-disable import/extensions */
+/* eslint-disable no-unused-vars */
 /* eslint-disable arrow-body-style */
 
 import { MemberSidebar, TransactionDetailContent } from '../../../components';

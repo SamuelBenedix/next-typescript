@@ -1,3 +1,5 @@
+/* eslint-disable import/no-unresolved */
+// eslint-disable-next-line import/extensions
 import Row from './Row';
 
 const TransactionDetailContent = () => {

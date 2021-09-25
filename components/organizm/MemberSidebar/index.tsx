@@ -61,7 +61,7 @@ const MemberSidebar = (props: MemberSidebarProps) => {
             href="/member/edit-profile"
             active={activeMenu === 'setting'}
           />
-          <MenuItem title="Log Out" icon="logout" href="signin" />
+          <MenuItem title="Log Out" icon="logout" href="/signin" />
         </div>
         <FooterSidebar />
       </div>
